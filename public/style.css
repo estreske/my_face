@@ -1,0 +1,19 @@
+body {
+  background: url("http://p1.pichost.me/i/5/1282860.jpg");
+  color: gray;
+  font-family: 'Voces', cursive;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}
+
+a:hover {
+  color: white;
+}
+
+ul, li {
+  list-style-type: none;
+}
